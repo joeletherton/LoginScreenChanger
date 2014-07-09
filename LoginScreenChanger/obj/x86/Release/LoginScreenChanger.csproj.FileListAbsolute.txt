@@ -1,0 +1,15 @@
+C:\Users\jetherton\Desktop\Mine\Projects\LoginScreenChanger\LoginScreenChanger\bin\Release\LoginScreenChanger.exe
+C:\Users\jetherton\Desktop\Mine\Projects\LoginScreenChanger\LoginScreenChanger\bin\Release\LoginScreenChanger.pdb
+C:\Users\jetherton\Desktop\Mine\Projects\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.LoginChangerInstaller.resources
+C:\Users\jetherton\Desktop\Mine\Projects\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.csproj.GenerateResource.Cache
+C:\Users\jetherton\Desktop\Mine\Projects\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.exe
+C:\Users\jetherton\Desktop\Mine\Projects\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\bin\Release\LoginScreenChanger.exe
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\bin\Release\LoginScreenChanger.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\bin\Release\LoginScreenLibrary.dll
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\bin\Release\LoginScreenLibrary.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.csprojResolveAssemblyReference.cache
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.LoginChangerInstaller.resources
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.csproj.GenerateResource.Cache
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.exe
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChanger\obj\x86\Release\LoginScreenChanger.pdb

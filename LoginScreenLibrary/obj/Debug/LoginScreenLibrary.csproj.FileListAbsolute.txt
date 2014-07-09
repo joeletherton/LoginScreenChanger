@@ -1,0 +1,5 @@
+D:\Development\Winforms\LoginScreenChanger\LoginScreenLibrary\bin\Debug\LoginScreenLibrary.dll
+D:\Development\Winforms\LoginScreenChanger\LoginScreenLibrary\bin\Debug\LoginScreenLibrary.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenLibrary\obj\Debug\LoginScreenLibrary.dll
+D:\Development\Winforms\LoginScreenChanger\LoginScreenLibrary\obj\Debug\LoginScreenLibrary.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenLibrary\obj\Debug\LoginScreenLibrary.csprojResolveAssemblyReference.cache

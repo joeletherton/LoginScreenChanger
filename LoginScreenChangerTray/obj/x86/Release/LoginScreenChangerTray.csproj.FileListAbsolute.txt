@@ -1,0 +1,10 @@
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\bin\Release\LoginScreenChangerTray.exe
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\bin\Release\LoginScreenChangerTray.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\bin\Release\LoginScreenLibrary.dll
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\bin\Release\LoginScreenLibrary.pdb
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\obj\x86\Release\LoginScreenChangerTray.csprojResolveAssemblyReference.cache
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\obj\x86\Release\LoginScreenChangerTray.Properties.Resources.resources
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\obj\x86\Release\LoginScreenChangerTray.SettingsChanger.resources
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\obj\x86\Release\LoginScreenChangerTray.csproj.GenerateResource.Cache
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\obj\x86\Release\LoginScreenChangerTray.exe
+D:\Development\Winforms\LoginScreenChanger\LoginScreenChangerTray\obj\x86\Release\LoginScreenChangerTray.pdb
